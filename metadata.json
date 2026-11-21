@@ -1,0 +1,6 @@
+{
+  "name": "स्वास्थ्य शिक्षा ज्ञानकोश",
+  "description": "सरल नेपाली भाषामा प्रमाणित आधारभूत स्वास्थ्य शिक्षा, सन्तुलित पोषण, सरसफाइ, प्राथमिक उपचार, खोप र अभ्यास प्रश्नोत्तरी।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
